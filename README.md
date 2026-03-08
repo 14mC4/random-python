@@ -1,8 +1,12 @@
 ## 🤝 Contributing
 
 ### Clone the repo
-
+##
 Motivation
+Quick Start
+Usage
+Contributing
+
 ```bash
 git clone https://github.com/xyz/zipzod@latest
 cd zipzod
